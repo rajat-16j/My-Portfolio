@@ -69,14 +69,14 @@ const Contact = () => {
         <h4 className="text-white font-semibold mb-4">Follow Me</h4>
         <div className="flex justify-center space-x-6">
           <a
-            href="https://www.instagram.com/rajit_attitu"
+            href="https://www.instagram.com/rajj.atttt/"
             className="p-4 bg-gray-800 rounded-lg text-gray-400 hover:text-pink-500 hover:bg-gray-700 transform transition duration-300 hover:scale-110"
           >
             <Instagram size={28} />
           </a>
 
           <a
-            href="https://www.linkedin.com/in/rajattit"
+            href="https://www.linkedin.com/in/rajattt/"
             className="p-4 bg-gray-800 rounded-lg text-gray-400 hover:text-blue-500 hover:bg-gray-700 transform transition duration-300 hover:scale-110"
           >
             <Linkedin size={28} />
