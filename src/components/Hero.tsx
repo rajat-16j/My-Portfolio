@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { ChevronDown, Github, Instagram, Linkedin, Mail } from 'lucide-react';
-import resumePDF from '../RAJAT_RANJAN.pdf'; // Adjust the path as necessary
+import resumePDF from '../Rajat_Resumee.pdf'; // Adjust the path as necessary
 import photo from '../photo.jpg'; // Adjust the path as necessary
 
 const Hero = () => {
